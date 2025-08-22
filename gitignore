@@ -1,0 +1,37 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment directories
+venv/
+.env/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks and temporary files
+*.ipynb
+.ipynb_checkpoints/
+
+# Build output
+dist/
+build/
+
+# Node modules (if present)
+node_modules/
+
+# User-specific files
+*.xlsx
+results*.csv
+
+# Environment variables
+.env
+
+# Other
+*.log
